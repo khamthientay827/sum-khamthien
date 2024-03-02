@@ -1,0 +1,27 @@
+{
+  "name": "sum-khamthien",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-khamthien": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khamthientay827/sum-khamthien"
+  },
+  "homepage": "https://twitter.com/turner_dou89521",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "khamthien",
+  "license": "MIT"
+}
